@@ -1,0 +1,15 @@
+/Users/melon/Documents/Code/251/PrimeGen/bin/Debug/net7.0/PrimeGen
+/Users/melon/Documents/Code/251/PrimeGen/bin/Debug/net7.0/PrimeGen.deps.json
+/Users/melon/Documents/Code/251/PrimeGen/bin/Debug/net7.0/PrimeGen.runtimeconfig.json
+/Users/melon/Documents/Code/251/PrimeGen/bin/Debug/net7.0/PrimeGen.dll
+/Users/melon/Documents/Code/251/PrimeGen/bin/Debug/net7.0/PrimeGen.pdb
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.csproj.AssemblyReference.cache
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.AssemblyInfoInputs.cache
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.AssemblyInfo.cs
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.csproj.CoreCompileInputs.cache
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.dll
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/refint/PrimeGen.dll
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.pdb
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/PrimeGen.genruntimeconfig.cache
+/Users/melon/Documents/Code/251/PrimeGen/obj/Debug/net7.0/ref/PrimeGen.dll
